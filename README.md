@@ -5,6 +5,9 @@
 * Maximum resilience in the RF connection under the trace-off of system complexity
 * Co-existence of up to 6 sets of same system
 
+## Topology
+![](topology.png)
+
 ## RF Pipelines
 * BOX (Host)
 	* logical address 0: TX to all the devices
